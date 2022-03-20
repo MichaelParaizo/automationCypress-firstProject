@@ -1,0 +1,53 @@
+{
+  "signup":{
+    "name": "Michael Couto",
+    "cpf":"11122233381",
+    "email": "michael@michael.com",
+    "whatsapp": "11999999999",
+    "address":{
+      "postalcode":"04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "1000",
+      "details": "Ap 142",
+      "district":"Itaim Bibi",
+      "city_state":"São Paulo/SP"      
+    },
+    "delivery_method": "Moto",
+    "cnh":"cnh-digital.jpg"
+},
+
+"cpf_inv":{
+  "name": "Michael Couto",
+  "cpf":"111222333AA",
+  "email": "maicon@michael.com",
+  "whatsapp": "11999999999",
+  "address":{
+    "postalcode":"04534011",
+    "street": "Rua Joaquim Floriano",
+    "number": "1000",
+    "details": "Ap 142",
+    "district":"Itaim Bibi",
+    "city_state":"São Paulo/SP"      
+  },
+  "delivery_method": "Moto",
+  "cnh":"cnh-digital.jpg"
+
+},
+"email_inv":{
+  "name": "Michael Couto",
+  "cpf":"11122233381",
+  "email": "michael.obrabo.com",
+  "whatsapp": "11999999999",
+  "address":{
+    "postalcode":"04534011",
+    "street": "Rua Joaquim Floriano",
+    "number": "1000",
+    "details": "Ap 142",
+    "district":"Itaim Bibi",
+    "city_state":"São Paulo/SP"      
+  },
+  "delivery_method": "Moto",
+  "cnh":"cnh-digital.jpg"
+}
+
+}
